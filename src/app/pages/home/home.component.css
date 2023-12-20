@@ -1,0 +1,15 @@
+img{
+    max-width: 100%;
+    height: auto; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: auto;
+    width: 100px;
+}
+#datepicker{
+    margin: auto;
+    width: 200px;
+}
